@@ -176,7 +176,7 @@ This chart presents the number of bookings for City Hotel and Resort Hotel.
 
 This histogram shows how far in advance guests made their hotel bookings.
 
-![Distribution of Booking Lead Time](Outputs/lead_time_distribution.png)
+![Distribution of Booking Lead Time](Outputs/lead_time_histogram.png)
 
 ---
 
@@ -208,7 +208,7 @@ This line chart shows the number of bookings across the different arrival months
 
 This visualization shows the number of bookings recorded across the available arrival years.
 
-![Year-wise Booking Trend](Outputs/year_booking_trend.png)
+![Year-wise Booking Trend](Outputs/yearly_booking_trend.png)
 
 ---
 
