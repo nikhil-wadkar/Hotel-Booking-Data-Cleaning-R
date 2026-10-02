@@ -281,3 +281,113 @@ Interpret Results
 Export Visualization Images
       ↓
 Document Findings
+
+# Hotel Booking Data Analysis using R
+
+## Week 1 – Data Cleaning and Preliminary Analysis
+...
+
+## Week 2 – Data Visualization and Insight Communication
+...
+
+## Week 3 – Statistical Analysis and Predictive Modeling
+
+### Project Overview
+
+Week 3 focuses on statistical analysis and predictive modeling using R and the Hotel Booking Demand dataset.
+
+The analysis examines factors associated with hotel booking cancellations using hypothesis testing and binary logistic regression.
+
+### Objectives
+
+- Perform exploratory statistical analysis
+- Conduct hypothesis testing
+- Analyze the relationship between lead time and booking cancellation
+- Build binary logistic regression models
+- Apply 10-fold cross-validation
+- Evaluate model performance using accuracy and Kappa
+- Generate confusion matrices
+- Evaluate ROC curves and AUC
+- Compare models using AIC
+- Perform model diagnostic analysis
+- Interpret statistical and predictive results
+
+### Statistical Analysis
+
+A Pearson's Chi-square test was performed to examine the association between lead-time groups and booking cancellation.
+
+The test produced:
+
+- Chi-square statistic: 2991
+- Degrees of freedom: 3
+- p-value: < 2.2e-16
+
+### Predictive Modeling
+
+Binary logistic regression was used to predict whether a hotel booking would be cancelled.
+
+The target variable was:
+
+`is_canceled`
+
+Two logistic regression models were developed and evaluated.
+
+### Model Evaluation
+
+| Metric | Model 1 | Model 2 |
+|---|---:|---:|
+| AUC | 0.799 | 0.758 |
+| AIC | 65255.29 | 69510.07 |
+
+Model evaluation also included:
+
+- Confusion matrix
+- Accuracy
+- Sensitivity
+- Specificity
+- ROC/AUC
+- 10-fold cross-validation
+- Diagnostic plots
+
+### Cross-Validation
+
+10-fold cross-validation was performed for model evaluation.
+
+The cross-validation results included:
+
+- Accuracy: 0.78495
+- Kappa: 0.37393
+
+### Key Findings
+
+The analysis identified a statistically significant association between lead-time groups and cancellation status.
+
+The logistic regression analysis also showed that several booking characteristics were statistically associated with cancellation outcomes.
+
+The ROC analysis produced AUC values of 0.799 for Model 1 and 0.758 for Model 2.
+
+### Tools and Technologies
+
+- R
+- RStudio/R Console
+- Base R
+- caret
+- pROC
+- ggplot2
+- Statistical analysis
+- Logistic Regression
+
+### Project Structure
+
+```text
+Task_3_Statistical_Predictive_Analysis/
+├── R/
+│   └── Week_3_Statistical_Predictive_Analysis.R
+├── Outputs/
+│   ├── leadtime_chi_square.png
+│   ├── roc_curve_model_1.png
+│   ├── roc_curve_model_2.png
+│   ├── model_diagnostics.png
+│   └── ...
+└── Report/
+    └── Week_3_Statistical_Predictive_Analysis_Report.docx
