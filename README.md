@@ -284,12 +284,6 @@ Document Findings
 
 # Hotel Booking Data Analysis using R
 
-## Week 1 – Data Cleaning and Preliminary Analysis
-...
-
-## Week 2 – Data Visualization and Insight Communication
-...
-
 # Week 3 – Statistical Analysis and Predictive Modeling using R
 ### Project Overview
 
