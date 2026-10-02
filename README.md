@@ -152,7 +152,7 @@ This histogram shows the distribution of ADR values across hotel bookings.
 
 This bar chart shows the number of canceled and non-canceled bookings.
 
-![Booking Cancellation Status](Outputs/booking_cancellation_status.png)
+![Booking Cancellation Status](Outputs/Booking_Cancellation_Status.png)
 
 ---
 
@@ -160,7 +160,7 @@ This bar chart shows the number of canceled and non-canceled bookings.
 
 This visualization compares cancellation rates between City Hotel and Resort Hotel.
 
-![Cancellation Rate by Hotel Type](Outputs/cancellation_rate_by_hotel.png)
+![Cancellation Rate by Hotel Type](Outputs/Cancellation_Rate_by_Hotel_Type.png)
 
 ---
 
@@ -168,7 +168,7 @@ This visualization compares cancellation rates between City Hotel and Resort Hot
 
 This chart presents the number of bookings for City Hotel and Resort Hotel.
 
-![Hotel Type Distribution](Outputs/hotel_type_distribution.png)
+![Hotel Type Distribution](Outputs/Hotel_Type_Distribution.png)
 
 ---
 
