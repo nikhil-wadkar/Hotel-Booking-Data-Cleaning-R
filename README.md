@@ -144,7 +144,7 @@ This boxplot compares the distribution of Average Daily Rate (ADR) between City 
 
 This histogram shows the distribution of ADR values across hotel bookings.
 
-![Distribution of Average Daily Rate](Outputs/adr_distribution.png)
+![Distribution of Average Daily Rate](Outputs/adr_histogram.png)
 
 ---
 
@@ -192,7 +192,7 @@ This scatter plot examines the relationship between booking lead time and Averag
 
 This horizontal bar chart shows the number of bookings across different market segments.
 
-![Bookings by Market Segment](Outputs/market_segment_distribution.png)
+![Bookings by Market Segment](Outputs/market_segment.png)
 
 ---
 
@@ -208,7 +208,7 @@ This line chart shows the number of bookings across the different arrival months
 
 This visualization shows the number of bookings recorded across the available arrival years.
 
-![Year-wise Booking Trend](Outputs/year_wise_booking_trend.png)
+![Year-wise Booking Trend](Outputs/year_booking_trend.png)
 
 ---
 
