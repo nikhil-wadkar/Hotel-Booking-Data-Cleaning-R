@@ -290,8 +290,7 @@ Document Findings
 ## Week 2 – Data Visualization and Insight Communication
 ...
 
-## Week 3 – Statistical Analysis and Predictive Modeling
-
+# Week 3 – Statistical Analysis and Predictive Modeling using R
 ### Project Overview
 
 Week 3 focuses on statistical analysis and predictive modeling using R and the Hotel Booking Demand dataset.
