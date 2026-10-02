@@ -50,7 +50,7 @@ The dataset contains hotel reservation information including:
 
 ## Project Structure
 
-```text
+text
 Hotel-Booking-Data-Cleaning-R/
 │
 ├── R/
@@ -67,7 +67,8 @@ Hotel-Booking-Data-Cleaning-R/
 │
 └── Report/
     └── Week_1_Data_Cleaning_Preliminary_Analysis_Report.docx
----
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 # Task 2 – Data Visualization with R
 
@@ -263,7 +264,7 @@ The project uses different visualization techniques according to the analytical 
 
 The Week 2 visualization process followed these steps:
 
-```text
+text
 Cleaned Dataset
       ↓
 Load Data into R
@@ -281,6 +282,8 @@ Interpret Results
 Export Visualization Images
       ↓
 Document Findings
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 # Hotel Booking Data Analysis using R
 
