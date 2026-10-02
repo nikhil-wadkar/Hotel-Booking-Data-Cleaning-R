@@ -136,7 +136,7 @@ The visualizations were created using the cleaned dataset prepared during **Task
 
 This boxplot compares the distribution of Average Daily Rate (ADR) between City Hotel and Resort Hotel.
 
-![Average Daily Rate by Hotel Type](Outputs/average_daily_rate_by_hotel.png)
+![Average Daily Rate by Hotel Type](Outputs/Average Daily Rate by Hotel Type.png)
 
 ---
 
