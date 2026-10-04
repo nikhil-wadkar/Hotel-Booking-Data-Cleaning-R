@@ -373,5 +373,3 @@ The ROC analysis produced AUC values of 0.799 for Model 1 and 0.758 for Model 2.
 - Statistical analysis
 - Logistic Regression
 
-└── Report/
-    └── Week_3_Statistical_Predictive_Analysis_Report.docx
