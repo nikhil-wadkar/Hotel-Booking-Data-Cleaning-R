@@ -373,17 +373,5 @@ The ROC analysis produced AUC values of 0.799 for Model 1 and 0.758 for Model 2.
 - Statistical analysis
 - Logistic Regression
 
-### Project Structure
-
-```text
-Task_3_Statistical_Predictive_Analysis/
-├── R/
-│   └── Week_3_Statistical_Predictive_Analysis.R
-├── Outputs/
-│   ├── leadtime_chi_square.png
-│   ├── roc_curve_model_1.png
-│   ├── roc_curve_model_2.png
-│   ├── model_diagnostics.png
-│   └── ...
 └── Report/
     └── Week_3_Statistical_Predictive_Analysis_Report.docx
